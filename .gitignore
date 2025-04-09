@@ -27,7 +27,7 @@ share/python-wheels/
 MANIFEST
 
 # For data please refer to the FlowDike team
-data.xlsx
+data_flowdike.xlsx
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
