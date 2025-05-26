@@ -1,5 +1,5 @@
 # Variation in Flow Characteristics of Overtopping Waves on Dike Crests
-This repository contains the Python notebooks related to the publication (['Variation in Flow Characteristics of Overtopping Waves on Dike Crests' by van der Vegt et al. (2025)](https://doi.org/10.1016/j.coastaleng.2025.104772)).
+This repository contains the Python notebooks related to the publication ['Variation in Flow Characteristics of Overtopping Waves on Dike Crests' by van der Vegt et al. (2025)](https://doi.org/10.1016/j.coastaleng.2025.104772).
 
 ## Data Availability
 In this study, we use FlowDike data ([report](http://resolver.tudelft.nl/uuid:73cb6cbe-8931-4499-b4d6-aa31548f5dda)) postprocessed by Hughes and Nadal ([article](http://dx.doi.org/10.1016/j.coastaleng.2008.09.005)). The data is not distributed with this repository but can be obtained from the FlowDike team.
